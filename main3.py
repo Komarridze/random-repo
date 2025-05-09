@@ -1,4 +1,1 @@
 print("File 3")
-
-def div(a, b):
-  return a / b if b != 0 else "undefined"
